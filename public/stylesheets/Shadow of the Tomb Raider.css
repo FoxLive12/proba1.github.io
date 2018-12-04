@@ -1,0 +1,51 @@
+body {
+   font: 10pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
+   background: #4B0082; /* Цвет фона */
+   background-image: url('https://im0-tub-ua.yandex.net/i?id=60da8e7b1d837203be979487893048b4&n=13&exp=1');
+  }
+  a {
+      text-decoration: none; /* Отменяем подчеркивание у ссылки */
+      font-family: Consolas;
+      font-weight: bolder;
+      color: black;
+     }
+  h2 {
+   color: #800040; /* Цвет текста */
+   margin-top: 0px; /* Отступ сверху */
+  }
+  #container {
+   width: 1300px; /* Ширина слоя */
+   margin: 0 auto; /* Выравнивание по центру */
+   background: #B8860B; /* Цвет фона левой колонки */
+  }
+  #header {
+   font-size: 2.2em; /* Размер текста */
+   text-align: center; /* Выравнивание по центру */
+   padding: 20px; /* Отступы вокруг текста */
+   background: #8B0000; /* Цвет фона шапки */
+   color: white; /* Цвет текста */
+  }
+  #sidebar {
+   margin-top: 10px;/* Отступ сверху */
+   width: 150px; /* Ширина слоя */
+   padding: 0; /* Отступы вокруг текста */
+   float: left; /* Обтекание по правому краю */
+  }
+  #content {
+   margin-right: 250px; /* Отступ слева */
+   padding: 10px; /* Поля вокруг текста */
+   background: #f0f0f0  ; /* Цвет фона правой колонки */
+  }
+  #img1{
+    float: left;
+    margin-left: 50px;
+  }
+  #information{
+    margin-left: 450px;
+    margin-bottom: 110px;
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  #description{
+
+  }
